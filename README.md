@@ -27,3 +27,8 @@ Skip the resume struggle, AI's got your back. Write, edit, impress, and land the
 Link to presentation:
 
 https://docs.google.com/presentation/d/1rXr-NFO1ot-DlAo7ASI102W2lecWaHC2/edit?usp=sharing&ouid=100348058320883018302&rtpof=true&sd=true
+
+
+Link to market research:
+
+https://docs.google.com/document/d/1OGnmIFUY9ICn0YUQB48S2DbQAlEbRSZm4Eb9kC_B_yA/edit?usp=sharing
