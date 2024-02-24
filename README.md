@@ -20,3 +20,10 @@ Creative and playful:
 AI your way to dream job land: From blank page to hired, lightning fast.
 Resume writer's block? AI to the rescue! Dream job awaits, minutes away.
 Skip the resume struggle, AI's got your back. Write, edit, impress, and land the job!
+
+
+
+
+Link to presentation:
+
+https://docs.google.com/presentation/d/1rXr-NFO1ot-DlAo7ASI102W2lecWaHC2/edit?usp=sharing&ouid=100348058320883018302&rtpof=true&sd=true
