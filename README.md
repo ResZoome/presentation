@@ -32,3 +32,41 @@ https://docs.google.com/presentation/d/1rXr-NFO1ot-DlAo7ASI102W2lecWaHC2/edit?us
 Link to market research:
 
 https://docs.google.com/document/d/1OGnmIFUY9ICn0YUQB48S2DbQAlEbRSZm4Eb9kC_B_yA/edit?usp=sharing
+
+Text is Plus Jakarta Sans Here:
+
+https://fonts.google.com/selection
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+
+*
+
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 200 to 800
+
+.plus-jakarta sans-<uniquifier> {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+*
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap')
+</style>
+
+*
+
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 200 to 800
+
+.plus-jakarta sans-<uniquifier> {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
